@@ -3,7 +3,7 @@ def my_hash
     "Pokemon" => 4,
     "Magic Cards" => 240,
         }
-      end
+end
 
 
 def shipping_manifest
