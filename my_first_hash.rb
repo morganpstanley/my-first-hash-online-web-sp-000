@@ -1,4 +1,4 @@
-def my_hash {
+def my_hash = {
     "Pokemon" => 4,
     "Magic Cards" => 240,
 }
